@@ -14,16 +14,15 @@ Interactive elements included:
 3. Cross-filtered visuals for multi-dimensional exploration
 
 ### Findings
-``
-1. Total Sales: $1.20M
+
+``1. Total Sales: $1.20M
 2. Average Sales per Transaction: $141
 3. Items Sold: 8,523
 4.Average Customer Rating: 4
 5. Top-selling Categories: Fruits & Vegetables, Snack Foods – $178.1K
 6. Best Store Cohort: Established in 2018 – $204.5K revenue
 7. Top Outlet Type: Supermarket Type1 – $787.5K
-8. Low-fat Products: Accounted for 65% of total sales
-``
+8. Low-fat Products: Accounted for 65% of total sales``
 
 ### Regional & Store Performance
 Tier 3 Cities: Highest overall sales
