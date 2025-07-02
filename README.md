@@ -7,18 +7,14 @@ This project focuses on building a comprehensive sales dashboard for Blinkit. Th
 Excel – Used for initial exploration with pivot tables, conditional formatting, and slicers. 
 
 ### Analysis & Visualizations
-The dashboard focused on:
-Sales trends over time
-Product category performance
-Customer behavior & store characteristics
-Regional and tier-based analysis
+The dashboard focused on Sales trends over time, Product category performance, Customer behavior & store characteristics, Regional analysis.
 Interactive elements included:
-Custom DAX measures
-Dynamic KPIs
-Drill-through features for deep dives
-Cross-filtered visuals for multi-dimensional exploration
+1. Dynamic KPIs
+2. Drill-through features for deep dives.
+3. Cross-filtered visuals for multi-dimensional exploration
 
 ### Findings
+``
 Total Sales: $1.20M
 Average Sales per Transaction: $141
 Items Sold: 8,523
@@ -27,6 +23,7 @@ Top-selling Categories: Fruits & Vegetables, Snack Foods – $178.1K
 Best Store Cohort: Established in 2018 – $204.5K revenue
 Top Outlet Type: Supermarket Type1 – $787.5K
 Low-fat Products: Accounted for 65% of total sales
+``
 
 ### Regional & Store Performance
 Tier 3 Cities: Highest overall sales
