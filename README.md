@@ -44,5 +44,5 @@ This dashboard empowered data-informed decisions by:
 ### Conclusion
 This project sharpened my end-to-end analytics workflow—from cleaning messy data to storytelling through visuals. 
 
-Show what the dashboard looks like- 
+
  ![Dashboard Preview](https://github.com/ujjwalofficial092/blinkitdashboard/blob/main/Dashboard%20Image.png)
