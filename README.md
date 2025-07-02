@@ -15,7 +15,7 @@ Interactive elements included:
 
 ### Findings
 
-``
+```
 1. Total Sales: $1.20M
 2. Average Sales per Transaction: $141
 3. Items Sold: 8,523
@@ -24,7 +24,7 @@ Interactive elements included:
 6. Best Store Cohort: Established in 2018 – $204.5K revenue
 7. Top Outlet Type: Supermarket Type1 – $787.5K
 8. Low-fat Products: Accounted for 65% of total sales
-``
+```
 
 ### Regional & Store Performance
 Tier 3 Cities: Highest overall sales
