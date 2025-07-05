@@ -27,9 +27,9 @@ Interactive elements included:
 ```
 
 ### Regional & Store Performance
-Tier 3 Cities: Highest overall sales
-Medium-sized Stores: Contributed 42% of total revenue
-Small-sized Stores: Second largest share at 37%
+* Tier 3 Cities: Highest overall sales
+* Medium-sized Stores: Contributed 42% of total revenue
+* Small-sized Stores: Second largest share at 37%
 
 ### Impact
 This dashboard empowered data-informed decisions by:
