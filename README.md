@@ -37,7 +37,7 @@ This dashboard empowered data-informed decisions by:
 1. Uncovering sales patterns across products and regions
 2. Identifying profitable store types and city tiers.
 2. Highlighting customer preferences (e.g., low-fat products)
-4.Providing real-time insights to improve product strategies
+4. Providing real-time insights to improve product strategies
 
 ### Conclusion
 This project sharpened my end-to-end analytics workflow—from cleaning messy data to storytelling through visuals. 
